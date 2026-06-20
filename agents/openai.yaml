@@ -1,0 +1,3 @@
+﻿display_name: shsciencegroup-literature-skill
+short_description: Analyze PDFs and upload them into the SH Lab literature base.
+default_prompt: 文献入库 <课题ID> <PDF绝对路径>
